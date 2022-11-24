@@ -1,0 +1,4 @@
+StudentID: 2213111319
+Full name: Sirawit Panyu
+AKA: Mack
+ClassDetail: 2 
