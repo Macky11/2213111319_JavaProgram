@@ -1,0 +1,5 @@
+Date : 08-Dec-2022
+StudentID : 2213111319
+Fullname : Sirawit Panyu
+AKA : Macky11
+ClassDetail: User-Defind Method with String
