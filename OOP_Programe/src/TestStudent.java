@@ -28,9 +28,9 @@ public class TestStudent {
 			if(std[i].isPass()) {
 				System.out.println(">> "+std[i].getName()+"("+std[i].getScore()+")");
 			}*/
-		for(int i=0;i<std.length;i++) {
-			if(std[i].isPass()) {
-				System.out.println(">> "+std[i].getName()+" get grade "+std[i].findGrade(std[i].getScore()));
+		for(Student _std : std) {
+			if(_std.isPass()) {
+				System.out.println(">> "+_std.getName()+" get grade "+_std.findGrade(_std.getScore()));
 			}
 		}
 
