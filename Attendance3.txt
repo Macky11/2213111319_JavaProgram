@@ -1,5 +1,5 @@
-Date : 26-Jan-2023
+Date : 2-Feb-2023
 StudentID : 2213111319
 Fullname : Sirawit Panyu
 AKA : Macky11
-ClassDetail: Composition, Inheritance, and Polymorphism
+ClassDetail: Abstract&Interface
