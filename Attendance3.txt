@@ -2,4 +2,4 @@ Date : 9-Feb-2023
 StudentID : 2213111319
 Fullname : Sirawit Panyu
 AKA : Macky11
-ClassDetail: File and Exception Handling
+ClassDetail: Abstract&Interface
