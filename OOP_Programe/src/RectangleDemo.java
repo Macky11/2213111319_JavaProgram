@@ -10,5 +10,5 @@ public class RectangleDemo {
 	JOptionPane.showMessageDialog(null,rec+"\nArea of Rectangle is "+ rec.getArea());
 	
  }
-	
+}	
 

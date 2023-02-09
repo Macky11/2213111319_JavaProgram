@@ -15,4 +15,4 @@ public abstract  class Shape {
 	public String toString() {
 		return "Color ="+this.color;
 	}
-
+}

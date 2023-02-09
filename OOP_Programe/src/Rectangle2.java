@@ -24,4 +24,4 @@ public class Rectangle2 implements shape2{
     public String toString() {
         return "Rectangle[width = "+getWidth()+",lenght = "+getLength()+","+color+"]";
     }
-    
+ }   
