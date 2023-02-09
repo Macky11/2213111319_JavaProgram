@@ -12,4 +12,4 @@ public class RectangleDemo2 {
         System.out.println(rec + "color = " + shape2.color + "\nArea of Rectangle is " + rec.getArea());
     }
 
-}
+

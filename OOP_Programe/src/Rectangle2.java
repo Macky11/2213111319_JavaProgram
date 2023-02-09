@@ -25,4 +25,3 @@ public class Rectangle2 implements shape2{
         return "Rectangle[width = "+getWidth()+",lenght = "+getLength()+","+color+"]";
     }
     
-}

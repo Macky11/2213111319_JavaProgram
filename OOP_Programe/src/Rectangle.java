@@ -24,4 +24,4 @@ public class Rectangle extends Shape {
 		return "Rectangle[width ="+getWidth()+", length = "+getLength()+
 		","+super.toString()+"]";
 	}
-}
+
