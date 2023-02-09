@@ -1,4 +1,7 @@
 
-public class shape2 {
+public interface shape2 {
 
+	public String color = "blue";
+	
+	public abstract double getArea();
 }
